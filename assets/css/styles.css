@@ -54,7 +54,12 @@ body {
 h1, h2, p {
   margin: 0;
 }
-
+img.logo{
+  cursor: pointer;
+  margin-right: auto;
+  max-width:8%;
+  height:auto;
+}
 ul {
   margin: 0;
   padding: 0;
